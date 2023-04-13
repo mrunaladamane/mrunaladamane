@@ -2,7 +2,7 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGb11hSu2SDj_Mig8SXJQLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchand.io)
 <h1 align="center">Hi 👋, I'm Mrunal Adamane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'am working at TWIG SOFTWARE SOLUTION PVT. LTD. AS JR. SOFTWARE DEVELOPER </h3>
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/04/40/03/73/360_F_440037301_xI59ve0rg2gtWdLY8KT93gqJsbfDivcV.jpg" class="d-block w-100" alt="...">
 
 
@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/@adamanemrunal" target="blank"><img src="https://img.shields.io/twitter/follow/@adamanemrunal?logo=twitter&style=for-the-badge" alt="@adamanemrunal" /></a> </p>
 
-- 🔭 I’m currently working on **Book store Management**
+- 🔭 I’m currently working on **AgrEco Project**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Node js**
 
-- 👯 I’m looking to collaborate on **Travel In Goa**
+- 👯 I’m looking to collaborate on **Retalgo**
 
 - 💬 Ask me about **Angular**
 
