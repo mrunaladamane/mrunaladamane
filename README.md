@@ -2,7 +2,7 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGb11hSu2SDj_Mig8SXJQLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchand.io)
 <h1 align="center">Hi 👋, I'm Mrunal Adamane</h1>
-<h3 align="center">I'am working at TWIG SOFTWARE SOLUTION PVT. LTD. AS JR. SOFTWARE DEVELOPER </h3>
+<h3 align="center">I'am working at YOUNGELEMENT PVT. LTD. AS .NET FULLSTACK SOFTWARE DEVELOPER </h3>
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/04/40/03/73/360_F_440037301_xI59ve0rg2gtWdLY8KT93gqJsbfDivcV.jpg" class="d-block w-100" alt="...">
 
 
@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on **AgrEco Project**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **react**
 
-- 👯 I’m looking to collaborate on **Retalgo**
+- 👯 I’m looking to collaborate on **MeridianLink**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Asp.Net,.Net core, MVC and Angular**
 
-- 📫 How to reach me **mrunaladamane1234@gmail.com**
+- 📫 How to reach me **mrunaladamane98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
